@@ -2,7 +2,7 @@
 
 Este é um aplicativo de filme simples que usa o recurso legal de animação de rolagem automática do Flutter. O aplicativo é construído usando Flutter.
 
-https://github.com/caneto/movie_app_scroll/blob/main/screen/2023-02-13-10-41-29.gif
+![](https://github.com/caneto/movie_app_scroll/blob/main/screen/2023-02-13-10-41-29.gif)
 
 
 
